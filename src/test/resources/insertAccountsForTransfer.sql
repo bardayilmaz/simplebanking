@@ -1,0 +1,2 @@
+insert into account(id, owner, balance, created_date, modified_date) values ('1', 'Bülent', 100, now(), now());
+insert into account(id, owner, balance, created_date, modified_date) values ('0', 'Bülent', 0, now(), now());
