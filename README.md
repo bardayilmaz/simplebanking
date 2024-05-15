@@ -1,4 +1,5 @@
 # Getting Started with Simple Banking
+Original README file is renamed as README-old.md. You can find the original README file in the root directory.
 
 In this assignment, I built simple banking from the repository given by Eteration. I have completed Task 1 and Task2, and also completed Bonus for Task 1. I also have added extra endpoints for inserting a new account and transfer money between two accounts.
 
